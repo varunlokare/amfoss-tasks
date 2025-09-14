@@ -20,23 +20,7 @@ My field of interest lies in computers, which explains why I ended up in my BTec
 
 The tasks have been truly amazing, I’ve learned so much from each one. It’s been a long journey filled with challenges, but I’ve managed to overcome them over time.Personlally for me the tasks we really tought causse iam very new to it and had no prior knowledge of it and it was very interesting to learn and work hard on it. Although I hope to be selected, I’m not completely disheartened if it doesn’t go that way, as there is always an second chance and i will hit hard . I do feel a bit sad that I wasn’t able to complete all 10 tasks, despite giving my very best effort on each one.
 
-# **TASK STATUS**
 
-My statistics is as shown :
-
-| Task List | Description | Status |
-| :-:       | :-:         | :-:    |
-| Task-00   | [Install Linux](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-00) | Completed |
-| Task-01   | [Type Maestro](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-01) | Completed |
-| Task-02   | [Terminal Chaos](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-02) | Completed |
-| Task-03   | [Hello, World!](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-03) | Completed |
-| Task-04   | [Gopal and his PagePal](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-04)  | Completed |
-| Task-05   | [TerminalTrolly](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-05) | Completed |
-| Task-06   | [OpenDocs](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-06) | Completed |
-| Task-07   | [Pirate's Dilemma](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-07) | Partially done |
-| Task-08   | [Blog Burst](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-08) | Completed |
-| Task-09   | [HERO-DEX!](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-09)| Not attempted |
-| Task-10   | [Operation Pixel Merge](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-10)| Completed |
 
 
 
