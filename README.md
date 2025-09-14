@@ -2,22 +2,23 @@
 
 ## INTRODUCTION
 
-Myself, Aadarsh Mahesh K, I am a first-year BTech Electronics and Computer undergrad at Amrita Vishwa Vidyapeetham, Amritapuri campus. I know beginner-level coding and my preferred language is Python. My hobbies inclube playing basketball and hitting the gym ,Also i am really commited on putting the hardwork and give my best on every work i take on.
+Myself,Varun Nagnath Lokare , I am a first-year BTech computer scinece undergrad at Amrita Vishwa Vidyapeetham, Amritapuri campus. I am new t ocoding . My hobbies inclube playing badminton, swimming and skating , and iam very much hardworking and persistant on what ever job i do.
 ## **Why should we choose you?**
 
-I believe in commitment, consistency, and discipline. During the Praveshan tasks, I’ve done my best to post updates regularly and stay on top of my work. I’m eager to learn and adapt to new technologies. My passion for exploring new ideas keeps me motivated and always learning. I’m confident I can be a valuable asset to the club, and I’m ready to put in the hard hours with pleasure.
+I a kind of guy who is very dedicated and persistant to what ever work i am given with and i value decipline the most because even as a newbie to coding i had a hard time with the tasks because iam a guy who has no prior knowledge of the coding coulture even i learned for it and triend my level best for the tasks even thought iam no done with lot of them .I am always eager to explore new thing, leaern it and master it. I.
+I can assure you that you will not regret having me with you guys cause i will put all of my efforts to this club with no second thought.
 
 ## **How do you intend to contribute back to the club?**
-I will actively participate in discussions, activities, and events hosted by the club. I can assure you that I will not be the person who leaves after a month, realizing the amount of work required. I am willing to put in the hard work and dedicate the hours, as I believe that for every action, there is an equal and opposite reaction – the universe will reward you. Also, my passion for technology drives me to enter various competitions, and I will use these opportunities to represent and promote the club, AM@FOSS.
+I will put all of my efforts in the club activities, events, programs, late hour works and what ever taks i am given with. I can assure you that I will not be the person who give up after some time realising the amount of work and effort need to stay in the club but i wont back off from it. I am willing to put in the hard work and dedicate the hours. Also mu passion towwards to this club is huge as the reason of me joining this university is because of AMFOSS.
 
 ## **What are your fields of interest, and how do you plan on working on them?**
 
-My field of interest lies in both electronics and computers, which explains why I ended up in my BTech branch. When it comes to computers, my interest lies in Python, web development, and blockchain technology. I want to deep dive into blockchain technology and learn more about it. I’m also interested in integrating blockchain with FOSS projects. I don’t know how appealing this seems because I don’t know much about blockchain yet, but I am eager to grasp its knowledge. Additionally, my field of interest includes joining the AM@FOSS club because it’s the only club I want to join so badly. On a different note, I also want to achieve a better physique over time and am committed to working for it.
+My field of interest lies in computers, which explains why I ended up in my BTech branch. When it comes to computers, my interest lies in Python, web development, and open source. I want to deep dive into open source and learn more about it. I don’t know how appealing this seems because I don’t know much about coding culture yet and the reason why i wanna join so badly to gain guidence from the seniors, but I am eager to grasp its knowledge. Additionally, my field of interest includes joining the AM@FOSS club because it’s the only club I want to join so badly.
 
 
 ## **What are your thoughts and feedback on the Praveshan Selection Process?**
 
-The tasks have been truly amazing, I’ve learned so much from each one. It’s been a long journey filled with challenges, but I’ve managed to overcome them over time. I’m really grateful to my mentors for their continuous guidance. When I first saw the tasks, I never thought I would make it this far. Although I hope to be selected, I’m not completely disheartened if it doesn’t go that way, as the lessons I’ve learned throughout the process are incredibly valuable. I do feel a bit sad that I wasn’t able to complete all 10 tasks, despite giving my very best effort on each one.
+The tasks have been truly amazing, I’ve learned so much from each one. It’s been a long journey filled with challenges, but I’ve managed to overcome them over time.Personlally for me the tasks we really tought causse iam very new to it and had no prior knowledge of it and it was very interesting to learn and work hard on it. Although I hope to be selected, I’m not completely disheartened if it doesn’t go that way, as there is always an second chance and i will hit hard . I do feel a bit sad that I wasn’t able to complete all 10 tasks, despite giving my very best effort on each one.
 
 # **TASK STATUS**
 
