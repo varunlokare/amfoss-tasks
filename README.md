@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-Myself,Varun Nagnath Lokare , I am a first-year BTech computer scinece undergrad at Amrita Vishwa Vidyapeetham, Amritapuri campus. I am new t ocoding . My hobbies inclube playing badminton, swimming and skating , and iam very much hardworking and persistant on what ever job i do.
+Myself,Varun Nagnath Lokare , I am a first-year BTech computer scinece undergrad at Amrita Vishwa Vidyapeetham, Amritapuri campus. I am new to coding . My hobbies inclube playing badminton, swimming and skating , and iam very much hardworking and persistant on what ever job i do.
 ## **Why should we choose you?**
 
 I a kind of guy who is very dedicated and persistant to what ever work i am given with and i value decipline the most because even as a newbie to coding i had a hard time with the tasks because iam a guy who has no prior knowledge of the coding coulture even i learned for it and triend my level best for the tasks even thought iam no done with lot of them .I am always eager to explore new thing, leaern it and master it. I.
