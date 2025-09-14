@@ -1,0 +1,61 @@
+<html>
+  <head>
+    <style>
+      body{;
+        background-color:#B6EBE7;
+      }
+      div{
+        position:absolute;
+      }
+      .bg{
+        background:#724FAF;
+      }
+      .innerbox{
+        width: 110px;
+        height: 30px;
+        left: 145px;
+      }
+      .bigbox{
+        top: 85px;
+        left: 75px;
+        width: 50px;
+        height: 50px
+      }
+      .lilbox{
+         left:95px;
+        width:50px;
+        height:10px
+      }
+      .middlebox{
+        top:135px;
+        left:95px;
+        width:10px;
+        height:70px
+      }
+      .a1{
+        top: 85px;
+      }
+      .a2{
+        top: 135px;
+      }
+      .a3{
+        top: 185px;
+      }
+      .b2{
+        top: 145px;
+      }
+      .b3{
+        top: 195px;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="bg bigbox "></div>
+    <div class="bg innerbox a1"></div>
+    <div class="bg innerbox a2"></div>
+    <div class="bg innerbox a3"></div>
+    <div class="bg middlebox "></div>
+    <div class="bg lilbox b2"></div>
+    <div class="bg lilbox b3"></div>
+</html>

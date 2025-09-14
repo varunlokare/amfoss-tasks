@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <style>
+      body{
+        background:#E25C57;
+      }
+        div{
+        position:absolute;
+      }
+    .a1{
+        bottom:0px;
+        left:0px;
+        width:200px;
+        height:30px;
+       background:#F4DA64
+      }
+      .b1{
+        top:0px;
+        right:0px;
+        width:200px;
+        height:30px;
+           background:#F4DA64
+      }
+      .l1{
+        bottom:50px;
+      }
+      .l2{
+        bottom:100px;
+      }
+      .r1{
+        top:50px;
+      }
+      .r2{
+        top:100px;
+      }
+      
+    </style>
+  </head>
+   <body>
+    <div class="a1"></div>
+    <div class="b1"></div>
+    <div class="a1 l1"></div>
+    <div class="a1 l2"></div>
+    <div class="b1 r1"></div>
+    <div class="b1 r2"></div>  
+  </body>
+</html>

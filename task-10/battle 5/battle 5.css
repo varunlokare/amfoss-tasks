@@ -1,0 +1,79 @@
+<html>
+  <head>
+    <style>
+      body{
+        background:#3A335A;
+      }
+        div{
+        position:absolute;
+      }
+      .a1{
+        top:70px;
+        left:120px;
+        width:70px;
+        height:160px;
+       background:#FADE8B
+      }
+      .a2{
+          top:70px;
+        left:210px;
+        width:70px;
+        height:160px;
+       background:#FADE8B
+      }
+      .l1{
+         top:120px;
+        left:100px;
+        width:20px;
+        height:60px;
+       background:#FADE8B
+      }
+      .l2{
+        top:120px;
+        left:60px;
+        width:20px;
+        height:60px;
+       background:#FADE8B
+      }
+      .l3{
+         top:120px;
+        left:20px;
+        width:20px;
+        height:60px;
+       background:#FADE8B
+      }
+      .r1{
+        top:120px;
+        left:280px;
+        width:20px;
+        height:60px;
+       background:#FADE8B
+      }
+      .r2{
+        top:120px;
+        left:320px;
+        width:20px;
+        height:60px;
+       background:#FADE8B
+      }
+      .r3{
+        top:120px;
+        left:360px;
+        width:20px;
+        height:60px;
+       background:#FADE8B
+      }
+     
+    </style>
+  </head>
+   <body>
+    <div class="a1"></div>
+    <div class="a2"></div>
+    <div class="l1"></div>
+    <div class="l2"></div>
+    <div class="l3"></div>
+    <div class="r1"></div>
+    <div class="r2"></div>
+   <div class="r3"></div>
+  </body>
+</html>

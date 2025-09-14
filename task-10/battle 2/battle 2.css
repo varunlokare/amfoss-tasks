@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <style>
+      body{
+        background: #F1E1BE;
+      }
+      div{
+        position:absolute;
+      }
+     .a1{
+        top:0px;
+        left:0px;
+        width:200px;
+        height:270px;
+       background:#7C7565
+      }
+      .b1{
+        bottom: 0px;
+        right: 0px;
+        width: 200px;
+        height: 270px;
+           background:#7C7565
+      }
+      .c1{
+        top: 30px;
+        left: 70px;
+        width: 260px;
+        height: 240px;
+        background: #F1E1BE;
+      }
+      .d1{
+        top: 105px;
+        left: 155px;
+        width: 90px;
+        height: 90px;
+        background: #7C7565;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="a1"></div>
+    <div class="b1"></div>
+    <div class="c1"></div>
+    <div class="d1"></div>
+  </body>
+</html>
